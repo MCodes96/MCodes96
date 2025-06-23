@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 I want to build good robust software that makes people happy and that is useful to them.
 
 I rarely upload any projects to my GitHub and most of the stuff on here are tutorials I did a few years ago.
-If you want to know more about me and my work you can visit my [blog/portfolio page](https://mikayil.dev)
+If you want to know more about me and my work you can visit my [blog/portfolio](https://mikayil.dev).
